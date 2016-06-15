@@ -11,6 +11,7 @@
 
 ###### Installation and execution
 Requires objdump
+
 Then you can download smap by cloning the [Git](https://github.com/suraj-root/smap/) repository:
 
     git clone https://github.com/suraj-root/smap.git

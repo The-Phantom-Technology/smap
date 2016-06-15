@@ -7,11 +7,10 @@
 
 ![alt tag](http://s32.postimg.org/v4ne8nhfp/smap.png)
 
-
+###### Requirements
+* objdump
 
 ###### Installation and execution
-Requires objdump
-
 Then you can download smap by cloning the [Git](https://github.com/suraj-root/smap/) repository:
 
     git clone https://github.com/suraj-root/smap.git

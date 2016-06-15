@@ -149,7 +149,7 @@ def AfterDis(totBC, totACS):
 			for b in (i.split(',')):
 				totBC2.append(b)
 		except:totBC2.append(i)
-	print("\t-> Bad-char count=%s%d char(s)%s")%(pyc.Fore('yellow'),len(totBC2),pyc.Style('normal'))
+	print("\t-> Possible bad-char count=%s%d char(s)%s")%(pyc.Fore('yellow'),len(totBC2),pyc.Style('normal'))
 	print("\t-> Ascii count=%s%d char(s)%s")%(pyc.Fore('blue'),len(totACS),pyc.Style('normal'))
 	totACS = ''.join(totACS)
 	print("\t   (%s%s%s)")%(pyc.Fore('red'),totACS,pyc.Style('normal'))

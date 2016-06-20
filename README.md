@@ -7,6 +7,8 @@
 
 ![alt tag](http://s32.postimg.org/v4ne8nhfp/smap.png)
 
+Handy tool for shellcode analysis.
+
 ###### Requirements
 * objdump
 

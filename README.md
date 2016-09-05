@@ -11,7 +11,7 @@ Handy tool for shellcode analysis.
 
 
 ###### Demo video
-[![asciicast](https://asciinema.org/a/84829.png)](https://asciinema.org/a/84829?speed=2)
+[![asciicast](https://asciinema.org/a/84829.png)](https://asciinema.org/a/84829?speed=1.4)
 
 
 ###### Requirements

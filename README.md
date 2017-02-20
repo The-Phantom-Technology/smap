@@ -25,3 +25,5 @@ Then you can download smap by cloning the [Git](https://github.com/suraj-root/sm
     python smap.py -h
     
 get shellcodes @ http://shell-storm.org/shellcode/, https://www.exploit-db.com/shellcode/, https://packetstormsecurity.com/files/tags/shellcode/
+
+For educational purposes only.

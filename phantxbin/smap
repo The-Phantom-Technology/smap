@@ -1,1 +1,6 @@
+#!/bin/bash
+
+cd /opt/PHANTX/smap
+
+python /opt/PHANTX/smap/smap.py "$@"
 

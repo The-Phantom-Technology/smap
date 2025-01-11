@@ -2,5 +2,5 @@
 
 cd /opt/PHANTX/smap
 
-python /opt/PHANTX/smap/smap.py "$@"
+python2 /opt/PHANTX/smap/smap.py "$@"
 

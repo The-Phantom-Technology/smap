@@ -1,3 +1,5 @@
+rm -rf /opt/PHANTX/smap/.git*
+
 rm -rf /opt/PHANTX/smap
 
 rm -rf .git*
